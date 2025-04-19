@@ -1,0 +1,5 @@
+unzip viajes-app-final.zip
+cd viajes-app-final
+mv * .??* ../  # mueve todos los archivos al nivel superior
+cd ..
+rm -r viajes-app-final
